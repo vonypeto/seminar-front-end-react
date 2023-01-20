@@ -19,9 +19,10 @@ npm start
 now your ready to run your first project.
 
 (optional) install extension:
-> ES7+ React/Redux/React-Native snippets
-> Simple React Snippets
-
+```
+ES7+ React/Redux/React-Native snippets
+Simple React Snippets
+```
 
 Full Code Here for reference
 https://github.com/vonypeto/seminar-front-end-react
