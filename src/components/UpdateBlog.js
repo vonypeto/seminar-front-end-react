@@ -2,10 +2,9 @@ import React from "react";
 
 const UpdateBlog = (props) => {
   const { currentRow, handleUpdate } = props;
-
+  console.log(currentRow);
   return (
     <div className="form-content">
-      {" "}
       <h2>Update Blog</h2>
       <form onSubmit={handleUpdate}>
         <input
