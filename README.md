@@ -1,4 +1,4 @@
-visual instruction watch you example from this channel
+visual instruction watch example from this channel
 https://www.youtube.com/watch?v=VZgCn6ukFgE
 
 
